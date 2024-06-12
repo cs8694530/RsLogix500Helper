@@ -1,0 +1,11 @@
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.Properties.Resources.resources
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.csproj.GenerateResource.cache
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.csproj.CoreCompileInputs.cache
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\bin\Debug\RSLogix500ToDoNet.exe.config
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\bin\Debug\RSLogix500ToDoNet.exe
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\bin\Debug\RSLogix500ToDoNet.pdb
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.exe
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.pdb
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.Index.resources
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.Remark.resources
+D:\GarbageCan\TestCode\RSLogix500ToDoNet\RSLogix500ToDoNet\obj\Debug\RSLogix500ToDoNet.csprojAssemblyReference.cache
