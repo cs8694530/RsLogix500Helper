@@ -10,8 +10,10 @@
 
 主畫面中的「問號符號」有說明如何儲存RsLogix 500的檔案  
 *  由於在編寫的時候配合需求只針對常用的進行翻譯，若有遺漏可以在程式碼中自行補充
+*  SLC檔案是可以直接用記事本閱讀的
 
 ![image](https://github.com/cs8694530/RsLogix500Helper/assets/19258631/a0d0d0a7-9c43-4759-aed5-23c0ca3badf1)
+![image](https://github.com/cs8694530/RsLogix500Helper/assets/19258631/eef566f8-c9ad-4f0c-bcbd-176d53e50ac7)
 
 選擇檔案後，即可進行翻譯  
 *  右側按鈕可以在原始碼與翻譯的文本進行交互比對
